@@ -1,9 +1,6 @@
 import math
 import turtle
 
-
-
-
 def drawspiro(R, r, l):
     turtle.shape('turtle')
     turtle.up()
@@ -20,7 +17,7 @@ def drawspiro(R, r, l):
 
 
 
-drawspiro(297, 32, 5)
+drawspiro(150, 37, 0.9)
 turtle.mainloop()
 
 
